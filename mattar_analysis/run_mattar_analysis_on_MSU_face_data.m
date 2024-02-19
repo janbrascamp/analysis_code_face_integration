@@ -58,7 +58,7 @@ for subject_index = 1:length(subject_IDs)
 	subject_ID=string(subject_IDs(subject_index));
 
 	% Place to save the results files
-	this_output_data_path = fullfile(output_data_path,subject_ID,'ses-1','func');
+	this_output_data_path = convertStringsToChars(fullfile(output_data_path,subject_ID,'ses-1','func'));
 	if ~isfolder(this_output_data_path)
 	    mkdir(this_output_data_path);
 	end
@@ -66,8 +66,8 @@ for subject_index = 1:length(subject_IDs)
 	% Paths and filenames for the input data: provide the paths and collect all files there that have the right name pattern
 	% First the functional data, then the event data
 	
-	this_input_path_func_data = fullfile(input_path_func_data,subject_ID,'ses-1','func');
-	this_input_path_event_data = fullfile(input_path_event_data,subject_ID,'ses-1','func');
+	this_input_path_func_data = convertStringsToChars(fullfile(input_path_func_data,subject_ID,'ses-1','func'));
+	this_input_path_event_data = convertStringsToChars(fullfile(input_path_event_data,subject_ID,'ses-1','func'));
 	
 	these_input_paths={this_input_path_func_data, this_input_path_event_data};
 	file_name_search_strings={'space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz','_events.tsv'};	%strings to search for within file names to see whether file in question is input file we're interested in
@@ -99,7 +99,7 @@ for subject_index = 1:length(subject_IDs)
 	[stimulus,stimTime] = parseEventFiles(this_input_path_event_data,event_file_names);
 	
 	% Get the functional data files
-	[data,templateImage] = parseDataFiles(convertStringsToChars(this_input_path_func_data),func_file_names,smooth_sd);
+	[data,templateImage] = parseDataFiles(this_input_path_func_data,func_file_names,smooth_sd);
 	
 	% Pick the voxels to analyze
 	xyz = templateImage.volsize;
@@ -146,7 +146,7 @@ for subject_index = 1:length(subject_IDs)
 
 	% Save some files if we processed the whole brain
 	if ~fit_one_voxel
-		file_name_stem=[subject_ID '_task-main_space-MNI152NLin2009cAsym_desc-']
+		file_name_stem=[convertStringsToChars(subject_ID) '_task-main_space-MNI152NLin2009cAsym_desc-']
 		
 	    % Save the results
 	    fileName = fullfile(this_output_data_path,[file_name_stem 'mattarAdaptResults.mat']);
