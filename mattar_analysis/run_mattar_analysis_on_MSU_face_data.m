@@ -3,7 +3,8 @@
 % Adapted from demoMattarAdapt.m provided by Geoff Aguirre.
 % Intended to be run on the Circ server of MSU Psychology, to apply to the Thakkar Lab's face adaptation dataset the Aguirre lab's analysis described in Mattar et al. Curr Biol 26, 1669–1676 (2016).
 %   
-% To run: in an SSH terminal to the Circ server, navigate to the folder where this script is located, and run it like this: /usr/local/bin/matlab -nodesktop -nosplash -batch run_mattar_analysis_on_MSU_face_data
+% To run: in an SSH terminal to the Circ server, navigate to the folder where this script is located, and run it like this: /usr/local/bin/matlab -nodesktop -nosplash -batch run_mattar_analysis_on_MSU_face_data.
+Or, if you like: nohup /usr/local/bin/matlab -nodesktop -nosplash -batch run_mattar_analysis_on_MSU_face_data &> nohupout.out &
 %
 
 % Housekeeping
@@ -40,7 +41,7 @@ nFaces = 27;
 typical_gain = 0.1;
 
 % The IDs of the subjects whose data we want to analyze
-subject_IDs={'sub-A0001','sub-C0103'};	%enter subject IDs here (format: {'sub-A0001','sub-C0103'} or leave empty for the variable to be filled with all subject IDs identified by data_folder_contents
+subject_IDs={};	%enter subject IDs here (format: {'sub-A0001','sub-C0103'} or leave empty for the variable to be filled with all subject IDs identified by data_folder_contents
 
 if length(subject_IDs)==0
 	input_folder_contents=dir(input_path_func_data);
