@@ -1,0 +1,1082 @@
+2023-06-26 11:05:03,100  tools.BIDS_tools   INFO  Running prepare_derivatives_folder
+2023-06-26 11:05:42,873  tools.fMRI_tools   INFO  Running build_models_events
+2023-06-26 11:05:42,873  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,876  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,877  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,878  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,879  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,880  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,881  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,881  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,882  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,883  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,884  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,885  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,886  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,887  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,887  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,888  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,889  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,890  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,891  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,892  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,893  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,894  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,894  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,895  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,896  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,897  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,898  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,899  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,899  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,900  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,901  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,902  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,903  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,904  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,904  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,905  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,906  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,907  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,908  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,909  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,909  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,910  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,911  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,912  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,913  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,914  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,915  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,915  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,916  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,917  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,918  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,919  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,920  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,920  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,921  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,922  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,923  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,924  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,925  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,925  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,926  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,927  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,928  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,929  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,930  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,931  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,932  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,933  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,933  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,934  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,935  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,936  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,937  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,938  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,938  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,939  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,940  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,941  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,942  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,943  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,943  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,944  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,945  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,946  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,947  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,948  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,949  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,949  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,950  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,951  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,952  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,953  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,954  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,954  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,955  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,956  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,957  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,958  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,959  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,959  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,960  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,961  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,962  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,963  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,964  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,965  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,965  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,966  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,967  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,968  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,969  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,970  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,970  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,971  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,972  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,973  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,974  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,975  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,975  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,976  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,977  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,978  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,979  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,980  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,980  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,981  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,982  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,983  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,984  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,985  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,985  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,986  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,987  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,988  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,989  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,990  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,990  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,991  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,992  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,993  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,994  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,995  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,995  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,996  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,997  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,998  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,999  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:42,999  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,000  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,001  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,002  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,003  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,004  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,005  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,005  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,006  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,007  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,008  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,009  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,009  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,010  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,011  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,012  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,013  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,014  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,014  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,015  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,016  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,017  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,018  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,019  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,019  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,020  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,021  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,022  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,023  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,024  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,024  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,025  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,026  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,027  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,028  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,029  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,030  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,030  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,031  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,032  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,033  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,034  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,034  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,035  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,036  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,037  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,038  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,039  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,039  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,040  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,041  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,042  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,043  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,043  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,044  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,045  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,046  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,047  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,048  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,048  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,049  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,050  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,051  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,052  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,053  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,053  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,054  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,055  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,056  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,057  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,058  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,058  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,059  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,060  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,061  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,062  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,063  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,063  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,064  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,065  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,066  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,067  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,067  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,068  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,069  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,070  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,071  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,072  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,072  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,073  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,074  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,075  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,076  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,077  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,077  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,078  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,079  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,080  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,081  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,081  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,082  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,083  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,084  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,085  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,086  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,086  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,087  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,088  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,089  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,090  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,090  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,091  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,092  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,093  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,094  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,095  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,095  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,096  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,097  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,098  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,099  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,100  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,100  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,101  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,102  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,103  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,104  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,105  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,105  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,106  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,107  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,108  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,109  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,109  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,110  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,111  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,112  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,113  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,114  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,114  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,115  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,116  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,117  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,118  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,118  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,119  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,120  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,121  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,122  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,123  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,123  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,124  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,125  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,126  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,127  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,128  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,128  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,129  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,130  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,131  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,132  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,133  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,133  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,134  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,135  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,136  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,137  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,137  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,138  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,139  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,140  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,141  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,142  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,142  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,143  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,144  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,145  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,146  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,147  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,147  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,148  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,149  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,150  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,151  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,152  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,152  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,153  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,154  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,155  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,156  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,156  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,157  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,158  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,159  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,160  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,161  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,161  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,162  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,163  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,164  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,165  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,165  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:43,166  tools.behavior_tools   INFO  Running assemble_events
+2023-06-26 11:05:52,986  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:05:52,989  matplotlib.font_manager  DEBUG  findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2023-06-26 11:05:52,989  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,989  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,990  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-odia/Lohit-Odia.ttf', name='Lohit Odia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansTamil-Regular.ttf', name='Droid Sans Tamil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-bengali/Lohit-Bengali.ttf', name='Lohit Bengali', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,991  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-assamese/Lohit-Assamese.ttf', name='Lohit Assamese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraBoldItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=800, stretch='normal', size='scalable')) = 11.43
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerifBoldItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paktype-naskh-basic/PakTypeNaskhBasic.ttf', name='PakType Naskh Basic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Medium.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Regular.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Italic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMonoBoldOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Medium.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansArmenian.ttf', name='Droid Sans Armenian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMonoBold.ttf', name='FreeMono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansSinhala-Bold.ttf', name='Noto Sans Sinhala', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Regular.otf', name='STIX', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,992  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-ExtraLight.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 0.24
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Medium.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-LightItalic.otf', name='Montserrat', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Light.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS75F.ttf', name='PT Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/smc/Meera.ttf', name='Meera', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Regular.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansMandaic-Regular.ttf', name='Noto Sans Mandaic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansFallback.ttf', name='Droid Sans Fallback', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraLightItalic.otf', name='Montserrat', style='italic', variant='normal', weight=275, stretch='normal', size='scalable')) = 11.16875
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansThai.ttf', name='Droid Sans Thai', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Black.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:52,993  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-SemiBold.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraBold.otf', name='Montserrat', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Bold.otf', name='Montserrat', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-MediumItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraBoldItalic.otf', name='Montserrat', style='italic', variant='normal', weight=800, stretch='normal', size='scalable')) = 11.43
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Medium.otf', name='Montserrat', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 1.25
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-BlackItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-padauk/Padauk-Bold.ttf', name='Padauk', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-SemiBoldItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Thin.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-tamil/Lohit-Tamil.ttf', name='Lohit Tamil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Bold.otf', name='STIX', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMono.ttf', name='FreeMono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-abyssinica/AbyssinicaSIL-R.ttf', name='Abyssinica SIL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSansBold.ttf', name='FreeSans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansTaiViet-Regular.ttf', name='Noto Sans Tai Viet', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,994  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-Regular.otf', name='Cantarell', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansGeorgian.ttf', name='Droid Sans Georgian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraLight.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=275, stretch='normal', size='scalable')) = 10.16875
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansSinhala-Regular.ttf', name='Noto Sans Sinhala', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-gurmukhi/Lohit-Gurmukhi.ttf', name='Lohit Gurmukhi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-BoldItalic.otf', name='Montserrat', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Thin.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMonoOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraBold.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-Oblique.otf', name='Cantarell', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/jomolhari/Jomolhari-alpha3c-0605331.ttf', name='Jomolhari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerifItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/khmeros/KhmerOS_content.ttf', name='Khmer OS Content', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,995  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSansOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Bold.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansLisu-Regular.ttf', name='Noto Sans Lisu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS76F.ttf', name='PT Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTN77F.ttf', name='PT Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTN57F.ttf', name='PT Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Black.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Italic.otf', name='Montserrat', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ThinItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=250, stretch='normal', size='scalable')) = 11.1925
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-Bold.otf', name='Cantarell', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-nuosu/NuosuSIL.ttf', name='Nuosu SIL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Regular.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-BoldOblique.otf', name='Cantarell', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ThinItalic.otf', name='Montserrat', style='italic', variant='normal', weight=250, stretch='normal', size='scalable')) = 11.1925
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Black.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:52,996  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansTamil-Bold.ttf', name='Droid Sans Tamil', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-MediumItalic.otf', name='Montserrat', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansEthiopic-Bold.ttf', name='Droid Sans Ethiopic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/khmeros/KhmerOS.ttf', name='Khmer OS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree-BoldOblique.ttf', name='Waree', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-BlackItalic.otf', name='Montserrat', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansMeeteiMayek-Regular.ttf', name='Noto Sans Meetei Mayek', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Light.otf', name='Montserrat', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansEthiopic-Regular.ttf', name='Droid Sans Ethiopic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-DemiLight.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-kannada/Lohit-Kannada.ttf', name='Lohit Kannada', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-padauk/Padauk-Regular.ttf', name='Padauk', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraLightItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=275, stretch='normal', size='scalable')) = 11.16875
+2023-06-26 11:05:52,997  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Italic.otf', name='STIX', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-devanagari/Lohit-Devanagari.ttf', name='Lohit Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree.ttf', name='Waree', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree-Bold.ttf', name='Waree', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree-Oblique.ttf', name='Waree', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS56F.ttf', name='PT Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSans.ttf', name='Droid Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansDevanagari-Regular.ttf', name='Droid Sans Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 1.535
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerif.ttf', name='FreeSerif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSans.ttf', name='FreeSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansTaiTham-Regular.ttf', name='Noto Sans Tai Tham', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansArabic.ttf', name='Droid Sans Arabic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,998  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-ExtraLight.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Bold.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-SemiBold.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-SemiBoldItalic.otf', name='Montserrat', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraLight.otf', name='Montserrat', style='normal', variant='normal', weight=275, stretch='normal', size='scalable')) = 10.16875
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSansBoldOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-BoldItalic.otf', name='STIX', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Light.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Regular.otf', name='Montserrat', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-BoldItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansTagalog-Regular.ttf', name='Noto Sans Tagalog', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 0.25
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-gujarati/Lohit-Gujarati.ttf', name='Lohit Gujarati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-telugu/Lohit-Telugu.ttf', name='Lohit Telugu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Light.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansHebrew-Bold.ttf', name='Droid Sans Hebrew', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Thin.otf', name='Montserrat', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2023-06-26 11:05:52,999  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Black.otf', name='Montserrat', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-SemiBold.otf', name='Montserrat', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerifBold.ttf', name='FreeSerif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS55F.ttf', name='PT Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansHebrew-Regular.ttf', name='Droid Sans Hebrew', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansJapanese.ttf', name='Droid Sans Japanese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-LightItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSans-Bold.ttf', name='Droid Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Bold.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/khmeros/KhmerOS_sys.ttf', name='Khmer OS System', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 0.5349999999999999
+2023-06-26 11:05:53,000  matplotlib.font_manager  DEBUG  findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,023  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-odia/Lohit-Odia.ttf', name='Lohit Odia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,024  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansTamil-Regular.ttf', name='Droid Sans Tamil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-bengali/Lohit-Bengali.ttf', name='Lohit Bengali', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-assamese/Lohit-Assamese.ttf', name='Lohit Assamese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraBoldItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=800, stretch='normal', size='scalable')) = 11.43
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerifBoldItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paktype-naskh-basic/PakTypeNaskhBasic.ttf', name='PakType Naskh Basic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Medium.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Regular.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Italic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMonoBoldOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Medium.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansArmenian.ttf', name='Droid Sans Armenian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMonoBold.ttf', name='FreeMono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansSinhala-Bold.ttf', name='Noto Sans Sinhala', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Regular.otf', name='STIX', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-ExtraLight.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 0.24
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Medium.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-LightItalic.otf', name='Montserrat', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Light.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS75F.ttf', name='PT Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,025  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/smc/Meera.ttf', name='Meera', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Regular.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansMandaic-Regular.ttf', name='Noto Sans Mandaic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansFallback.ttf', name='Droid Sans Fallback', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraLightItalic.otf', name='Montserrat', style='italic', variant='normal', weight=275, stretch='normal', size='scalable')) = 11.16875
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansThai.ttf', name='Droid Sans Thai', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Black.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-SemiBold.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraBold.otf', name='Montserrat', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Bold.otf', name='Montserrat', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-MediumItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraBoldItalic.otf', name='Montserrat', style='italic', variant='normal', weight=800, stretch='normal', size='scalable')) = 11.43
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Medium.otf', name='Montserrat', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 1.25
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-BlackItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-padauk/Padauk-Bold.ttf', name='Padauk', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-SemiBoldItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Thin.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-tamil/Lohit-Tamil.ttf', name='Lohit Tamil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Bold.otf', name='STIX', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMono.ttf', name='FreeMono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-abyssinica/AbyssinicaSIL-R.ttf', name='Abyssinica SIL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,026  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSansBold.ttf', name='FreeSans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansTaiViet-Regular.ttf', name='Noto Sans Tai Viet', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-Regular.otf', name='Cantarell', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansGeorgian.ttf', name='Droid Sans Georgian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraLight.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=275, stretch='normal', size='scalable')) = 10.16875
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansSinhala-Regular.ttf', name='Noto Sans Sinhala', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-gurmukhi/Lohit-Gurmukhi.ttf', name='Lohit Gurmukhi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-BoldItalic.otf', name='Montserrat', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Thin.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeMonoOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraBold.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-Oblique.otf', name='Cantarell', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/jomolhari/Jomolhari-alpha3c-0605331.ttf', name='Jomolhari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerifItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/khmeros/KhmerOS_content.ttf', name='Khmer OS Content', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSansOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Bold.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansLisu-Regular.ttf', name='Noto Sans Lisu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS76F.ttf', name='PT Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTN77F.ttf', name='PT Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTN57F.ttf', name='PT Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-06-26 11:05:53,027  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Black.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Italic.otf', name='Montserrat', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ThinItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=250, stretch='normal', size='scalable')) = 11.1925
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-Bold.otf', name='Cantarell', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-nuosu/NuosuSIL.ttf', name='Nuosu SIL', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-Regular.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/abattis-cantarell/Cantarell-BoldOblique.otf', name='Cantarell', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ThinItalic.otf', name='Montserrat', style='italic', variant='normal', weight=250, stretch='normal', size='scalable')) = 11.1925
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Black.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansTamil-Bold.ttf', name='Droid Sans Tamil', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-MediumItalic.otf', name='Montserrat', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansEthiopic-Bold.ttf', name='Droid Sans Ethiopic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/khmeros/KhmerOS.ttf', name='Khmer OS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree-BoldOblique.ttf', name='Waree', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-BlackItalic.otf', name='Montserrat', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansMeeteiMayek-Regular.ttf', name='Noto Sans Meetei Mayek', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Light.otf', name='Montserrat', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansEthiopic-Regular.ttf', name='Droid Sans Ethiopic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-DemiLight.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-kannada/Lohit-Kannada.ttf', name='Lohit Kannada', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,028  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/sil-padauk/Padauk-Regular.ttf', name='Padauk', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-ExtraLightItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=275, stretch='normal', size='scalable')) = 11.16875
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Italic.otf', name='STIX', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-devanagari/Lohit-Devanagari.ttf', name='Lohit Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree.ttf', name='Waree', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree-Bold.ttf', name='Waree', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/thai-scalable/Waree-Oblique.ttf', name='Waree', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS56F.ttf', name='PT Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSans.ttf', name='Droid Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansDevanagari-Regular.ttf', name='Droid Sans Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 1.535
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerif.ttf', name='FreeSerif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSans.ttf', name='FreeSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansTaiTham-Regular.ttf', name='Noto Sans Tai Tham', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansArabic.ttf', name='Droid Sans Arabic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSerifCJK-ExtraLight.ttc', name='Noto Serif CJK JP', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Bold.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-SemiBold.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerifCondensed-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-SemiBoldItalic.otf', name='Montserrat', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-ExtraLight.otf', name='Montserrat', style='normal', variant='normal', weight=275, stretch='normal', size='scalable')) = 10.16875
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSansBoldOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-06-26 11:05:53,029  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-BoldItalic.otf', name='STIX', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-Light.otf', name='Montserrat Alternates', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Regular.otf', name='Montserrat', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-BoldItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto/NotoSansTagalog-Regular.ttf', name='Noto Sans Tagalog', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 0.25
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-gujarati/Lohit-Gujarati.ttf', name='Lohit Gujarati', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/lohit-telugu/Lohit-Telugu.ttf', name='Lohit Telugu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Light.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-sans/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansHebrew-Bold.ttf', name='Droid Sans Hebrew', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Thin.otf', name='Montserrat', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-Black.otf', name='Montserrat', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/Montserrat-SemiBold.otf', name='Montserrat', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/gnu-free/FreeSerifBold.ttf', name='FreeSerif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/paratype-pt-sans/PTS55F.ttf', name='PT Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansHebrew-Regular.ttf', name='Droid Sans Hebrew', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/liberation-mono/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSansJapanese.ttf', name='Droid Sans Japanese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/julietaula-montserrat/MontserratAlternates-LightItalic.otf', name='Montserrat Alternates', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-droid/DroidSans-Bold.ttf', name='Droid Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/google-noto-cjk/NotoSansCJK-Bold.ttc', name='Noto Sans CJK JP', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/khmeros/KhmerOS_sys.ttf', name='Khmer OS System', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 0.5349999999999999
+2023-06-26 11:05:53,030  matplotlib.font_manager  DEBUG  findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/brascamp/anaconda3/envs/fMRI/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2023-06-26 11:05:53,124  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:05:53,845  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:05:53,896  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:06:03,810  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:03,928  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:04,673  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:04,730  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:06:14,789  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:14,895  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:15,764  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:15,812  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:06:25,876  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:25,989  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:26,695  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:26,743  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:06:35,931  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:36,053  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:36,764  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:36,807  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:06:46,509  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:46,628  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:47,351  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:47,401  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:06:57,616  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:57,727  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:58,472  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:06:58,523  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:07:07,786  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:07,929  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:08,669  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:08,719  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:07:18,071  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:18,196  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:18,856  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:18,898  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:07:28,331  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:28,451  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:29,149  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:29,200  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:07:39,285  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:39,402  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:40,256  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:40,308  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:07:49,606  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:49,729  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:50,534  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:07:50,614  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:08:01,131  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:01,257  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:02,157  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:02,208  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:08:11,751  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:11,884  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:12,591  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:12,643  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:08:22,322  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:22,440  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:23,001  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:23,058  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:08:32,455  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:32,579  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:33,243  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:33,285  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:08:42,450  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:42,572  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:43,118  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:43,196  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:08:53,317  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:53,442  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:54,146  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:08:54,200  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:09:03,682  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:03,799  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:04,409  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:04,484  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:09:14,347  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:14,465  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:15,012  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:15,108  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:09:24,016  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:24,134  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:24,610  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:24,663  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:09:33,641  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:33,758  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:34,430  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:34,482  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:09:43,925  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:44,040  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:44,702  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:44,755  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:09:54,049  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:54,173  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:54,830  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:09:54,873  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:10:03,734  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:03,848  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:04,308  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:04,359  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:10:13,201  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:13,315  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:13,812  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:13,855  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:10:23,760  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:23,876  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:24,487  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:24,563  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:10:36,067  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:36,192  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:36,985  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:37,082  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:10:46,921  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:47,030  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:47,550  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:47,601  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:10:56,428  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:56,536  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:56,980  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:10:57,022  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:11:06,356  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:06,482  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:07,118  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:07,167  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:11:17,109  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:17,232  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:18,032  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:18,074  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:11:27,592  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:27,709  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:28,207  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:28,258  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:11:36,884  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:37,002  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:37,484  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:37,526  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:11:46,200  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:46,315  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:46,914  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:46,957  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:11:57,652  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:57,768  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:58,664  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:11:58,726  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:12:09,519  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:09,643  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:10,338  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:10,414  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:12:20,788  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:20,904  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:21,630  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:21,682  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:12:32,386  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:32,508  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:33,493  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:33,537  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:12:42,207  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:42,342  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:43,169  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:43,222  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:12:53,676  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:53,814  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:54,496  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:12:54,538  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:13:03,950  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:04,063  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:04,652  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:04,704  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:13:14,107  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:14,220  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:14,850  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:14,894  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:13:23,773  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:23,888  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:24,419  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:24,469  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:13:32,981  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:33,094  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:33,607  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:33,649  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:13:42,044  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:42,157  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:42,672  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:42,722  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:13:51,636  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:51,750  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:52,504  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:13:52,545  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:14:01,616  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:01,728  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:02,262  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:02,303  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:14:11,378  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:11,496  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:12,051  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:12,093  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:14:21,156  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:21,271  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:21,788  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:21,838  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:14:30,560  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:30,674  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:31,176  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:31,217  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:14:40,216  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:40,331  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:40,863  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:40,905  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:14:49,633  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:49,761  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:50,644  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:14:50,721  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:15:01,856  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:01,983  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:02,860  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:02,924  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:15:13,695  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:13,810  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:14,759  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:14,823  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:15:24,257  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:24,372  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:24,887  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:24,938  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:15:33,978  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:34,092  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:34,634  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:34,675  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:15:43,599  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:43,712  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:44,193  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:44,235  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:15:53,276  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:53,389  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:53,938  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:15:53,989  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:16:04,874  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:04,998  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:06,055  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:06,120  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:16:18,236  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:18,359  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:19,180  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:19,258  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:16:31,544  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:31,666  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:32,540  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:32,595  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:16:44,306  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:44,430  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:45,341  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:45,424  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:16:58,339  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:58,462  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:59,291  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:16:59,348  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:17:10,366  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:10,497  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:11,051  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:11,112  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:17:22,572  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:22,686  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:23,394  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:23,450  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:17:35,477  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:35,593  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:36,284  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:36,352  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:17:48,710  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:48,826  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:49,717  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:17:49,773  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:18:01,861  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:18:01,987  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:18:02,573  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:18:02,642  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
+2023-06-26 11:18:13,854  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:18:13,975  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:18:14,798  tools.BIDS_tools   INFO  Running my_build_bids_filename
+2023-06-26 11:18:14,850  tools.fMRI_tools   INFO  Running open_in_MRIcroGL

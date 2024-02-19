@@ -1,0 +1,3 @@
+2023-06-27 10:23:24,822  tools.BIDS_tools   INFO  Running prepare_derivatives_folder
+2023-06-27 10:23:33,305  tools.BIDS_tools   INFO  Running my_get_bids_entities
+2023-06-27 10:23:38,247  tools.fMRI_tools   INFO  Running open_in_MRIcroGL
