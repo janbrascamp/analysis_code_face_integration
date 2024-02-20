@@ -4,7 +4,7 @@
 % Intended to be run on the Circ server of MSU Psychology, to apply to the Thakkar Lab's face adaptation dataset the Aguirre lab's analysis described in Mattar et al. Curr Biol 26, 1669–1676 (2016).
 %   
 % To run: in an SSH terminal to the Circ server, navigate to the folder where this script is located, and run it like this: /usr/local/bin/matlab -nodesktop -nosplash -batch run_mattar_analysis_on_MSU_face_data.
-Or, if you like: nohup /usr/local/bin/matlab -nodesktop -nosplash -batch run_mattar_analysis_on_MSU_face_data &> nohupout.out &
+% Or, if you like: nohup /usr/local/bin/matlab -nodesktop -nosplash -batch run_mattar_analysis_on_MSU_face_data &> nohupout.out &
 %
 
 % Housekeeping
@@ -179,4 +179,5 @@ for subject_index = 1:length(subject_IDs)
 		    end
 
 		end
+	end
 end
