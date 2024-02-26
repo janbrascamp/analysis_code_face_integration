@@ -82,24 +82,34 @@ for subject_index = 1:length(subject_IDs)
 			input_folder_contents=dir(this_input_path);
 	
 			file_names={};
+			file_numbers=[];
 	
 			for file_or_folder_counter = 1:length(input_folder_contents)
 				this_file_or_folder=input_folder_contents(file_or_folder_counter);
 				if ~isempty(strfind(this_file_or_folder.name,this_file_name_search_string)) & isempty(strfind(this_file_or_folder.name,'._sub-'))
-					file_names=[file_names,this_file_or_folder.name];
+					this_file_name=this_file_or_folder.name;
+					file_names=[file_names,this_file_name];
+					
+					number_part_of_this_file_name=regexp(this_file_name, '_run-[0-9]*', 'match');
+					number_part_of_this_file_name=number_part_of_this_file_name{1};
+					number_part_of_this_file_name=split(number_part_of_this_file_name,'-');
+					this_file_number=str2num(number_part_of_this_file_name{2});
+					file_numbers=[file_numbers,this_file_number];
 				end
 			end
+			
+			[file_numbers_sorted, file_numbers_idx] = sort(file_numbers);	% The file names will be sorted by the associated file numbers.
 		
 			if func_event_toggle==1
-				func_file_names=sort(file_names);
+				func_file_names=file_names(file_numbers_idx);
 			else
-				event_file_names=sort(file_names);
+				event_file_names=file_names(file_numbers_idx);
 			end
 		end
-	
+		
 		% Get the stimulus files from the event file content.
 		[stimulus,stimTime] = parseEventFiles(this_input_path_event_data,event_file_names);
-	
+		
 		% Get the functional data files
 		[data,templateImage] = parseDataFiles(this_input_path_func_data,func_file_names,smooth_sd);
 	
